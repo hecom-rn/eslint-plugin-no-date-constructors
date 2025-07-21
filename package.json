@@ -1,0 +1,10 @@
+{
+  "name": "eslint-plugin-no-date-constructors",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "description": "ESLint plugin to disallow problematic date constructors",
+  "keywords": ["eslint", "eslintplugin", "date", "moment"],
+  "peerDependencies": {
+    "eslint": ">=7.0.0"
+  }
+}
