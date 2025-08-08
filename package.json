@@ -1,6 +1,10 @@
 {
   "name": "eslint-plugin-no-date-constructors",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hecom-rn/eslint-plugin-no-date-constructors.git"
+  },
   "main": "lib/index.js",
   "description": "ESLint plugin to disallow problematic date constructors",
   "keywords": ["eslint", "eslintplugin", "date", "moment"],
